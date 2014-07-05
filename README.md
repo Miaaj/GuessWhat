@@ -1,6 +1,6 @@
 GuessWhat
 =========
-Here are two nodes frame work:
+Here are two JS Nodes frameworks saved for future usage:
 
 
 1. Added Express framework by simple installation
