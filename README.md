@@ -1,6 +1,6 @@
 GuessWhat
 =========
-Here are two JS Nodes frameworks saved for future usage:
+Here are two JS Node frameworks saved for future usage:
 
 
 1. Added Express framework by simple installation
