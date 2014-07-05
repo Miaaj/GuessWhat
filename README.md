@@ -1,6 +1,9 @@
 GuessWhat
 =========
-Added Express Framework by Installation
+Here are two nodes frame work:
 
 
-Write Basic Node Including: index.js server.js route.js requestHandlers.js
+1. Added Express framework by simple installation
+
+
+2. Manually write basic Node framework including: index.js server.js route.js requestHandlers.js
